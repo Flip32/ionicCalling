@@ -1,5 +1,7 @@
 {
   "name": "calling",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
